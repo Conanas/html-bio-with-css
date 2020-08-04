@@ -6,7 +6,6 @@
 #main-bio {
     float: left;
     width: 70%;
-    line-height: 1.5;
 }
 
 #contact-info {
@@ -26,6 +25,7 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 1.5;
 }
 
 header {
